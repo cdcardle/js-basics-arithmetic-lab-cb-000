@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-const newID = Math.parseFloat(oldID) + 1000000
+const newID = Number.parseFloat(oldID) + 1000000
